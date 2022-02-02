@@ -1,0 +1,16 @@
+span {
+  font-style: inherit;
+  color: #fafafa;
+  font-weight: inherit;
+}
+
+.contact-us {
+  background-color: #048f83;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+.shadow {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,0)!important;
+}
+
